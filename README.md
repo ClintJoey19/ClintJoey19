@@ -1,3 +1,4 @@
+**Personal Information**
 - 👋 Hi, I’m @ClintJoey19
 - 👀 I’m interested in Web and Mobile Development
 - 🌱 I’m currently learning Web Development using MERN Stack
